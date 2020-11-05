@@ -1,0 +1,44 @@
+order,Name,MRN,Last Treatment Date,Date of Progression,Site relapse,Progress locally,Progress Distantly,Date of Death,Stage,Trial,8980
+1,Ronald Nystrom,3375948,6/6/2014,8/22/2014,,Yes,No,,,10069B,Y
+2,Carl Steffens,3361810,5/13/2014,7/15/2014,,Yes,Yes,7/1/2016,,10069B,Y
+3,Dana Fogarty,3261049,9/8/2012,11/27/2012,,Yes,No,9/7/2013,,10069B,Y
+4,Paul Pocius,3260592,8/17/2012,12/2/2013,,Yes,Yes,,,10069B,Y
+5,Judith Brookens,3231751,5/11/2012,6/8/2012,,Yes,No,,,10069B,Y
+6,Bruce Buttle,1868643,4/6/2012,3/22/2013,,No,Yes,12/20/2015,,10069B,Y
+7,Tammy Paris,3228568,2/21/2012,6/14/2012,,No,Yes,10/14/2012,,10069B,Y
+8,Alan Burney,3221015,12/31/2011,9/20/2012,,No,Yes,8/29/2013,,10069B,Y
+9,Ronald Dunn,3199771,8/24/2011,5/2/2013,,Yes,No,12/9/2015,,10069B,Y
+10,Daniel Schei,3192729,9/11/2011,11/18/2011,,Yes,No,8/12/2012,,10069B,Y
+11,John Keeler,3191617,7/19/2011,9/20/2011,,Yes,Yes,7/20/2012,,10069B,Y
+12,Scott Quantz,3179594,4/27/2011,9/19/2011,,No,Yes,10/8/2011,,10069B,Y
+13,Michael Finnegan,1504532,4/19/2011,1/19/2018,,No,Yes,,,10069B,Y
+14,Albert Pennington,3178220,4/20/2011,11/8/2011,,No,Yes,12/24/2011,,10069B,Y
+15,Wayne Reckamp,3165977,2/1/2011,3/11/2014,,No,Yes,4/16/2015,,10069B,Y
+16,Boise Queen,3151830,1/12/2011,3/1/2016,,Yes (neck),No,,,10069B,Y
+17,Gregory Stoecker,3155007,11/26/2010,12/26/2010,,Yes,No,,,10069B,Y
+18,Jeffrey Spence,3156002,11/30/2010,2/11/2011,,Yes,No,,,10069B,Y
+19,Dennis Katz,2944057,10/8/2010,11/5/2010,,Yes,No,2/7/2011,,10069B,Y
+20,Joel Huelsmann,3146164,10/5/2010,12/15/2010,,Yes ,No,2/28/2012,,10069B,Y
+21,John Frisch,770827,6/18/2010,11/12/2010,,No,Yes,4/10/2011,,10069B,Y
+22,"Hicks, Clyde",1381378,2/23/2007,8/31/2007,neck-8/07-local-4/16/08,Y,N,8/15/2009,T4aN2c,14401A,Y
+23,"Vivacqua, Mary",2913559,3/23/2007,8/7/2007,neck & pos PET/prim,Y,N,11/13/2012,T4a2b,14401A,Y
+24,"Auksel, Ervin",2928998,6/8/2007,12/17/2007,neck failure,Y,N,2/14/2008,T4aN2c,14401A,Y
+25,"Bushong, Richard",076-50-10,9/21/2007,10/3/2007,"hiatal node pos on autopsy, distant mets or new primary? ",N,Y,10/3/2007,T4aN3,14401A,Y
+26,"Doran, Thomas",295-45-58,11/9/2007,1/27/2011,lung,N,Y,12/28/2011,T2N3,14401A,Y
+27,"Harner, Thomas",295-86-83,12/7/2007,2/11/2011,Thoracic spine mets,N,Y,.,T3N2c,14401A,Y
+28,"Goldsmith, Jerome",296-52-61,12/30/2007,7/16/2008,local,Y,N,3/24/2010,T3N2b,14401A,Y
+29,"Cicale, Dennis",296-47-59,1/6/2008,.,.,,,9/15/2009,T2N2c,14401A,Y
+30,"Lambropoulos, Gus",298-83-11,5/2/2008,3/9/2012,local,Y,N,.,T4aN0,14401A,Y
+31,"Hyman, Leslie (male)",162-74-44,8/22/2008,9/26/2011,lung,N,Y,1/24/2012,T4a2b,14401A,Y
+32,"White, Douglas",302-55-51,12/5/2008,3/19/2012,lung,N,Y,4/1/2013,T3N2b,14401A,Y
+33,"Parmakis, James",310-54-16,2/19/2010,11/13/2012,left neck,Y,N,.,T2N2b,14401A,Y
+34,"May, James",078-82-13,8/6/2010,10/12/2010,"lung,sacrum",N,Y,2/1/2011,T2/3N2b/c,14401A,Y
+35,"Steele, William",2933746,6/18/2007,6/11/2009,tonsil (local),Y,N,.,T2N2b,14401A,Y
+36,"Barron, George",1827133,9/12/2007,8/18/2008,"tonsil, 3/09 neck +",Y,N,2/10/2011,T3N2b,14401A,Y
+37,"Gannon, Thomas",099-57-41,1/29/2008,1/13/2009,neck,Y,N,12/19/2011,T4a2b,14401A,Y
+38,"Moore, Ronald",302-26-84,11/17/2008,5/5/2009,L palate (local),Y,N,11/15/2009,T4aN2c,14401A,Y
+39,"Dunn, Jeanne",209-78-25,11/4/2008,7/2/2009,"lung, then multiple",,Y,8/21/2010,T2N2c,14401A,Y
+40,"Kopec, Ronald",304-04-52,2/3/2009,4/30/2010,tongue,Y,N,2/5/2012,T4a2b,14401A,Y
+41,"Hawkins, Richard",287-62-17,4/15/2010,4/15/2010,local-persistent,Y,N,8/1/2010,T4aN1,14401A,Y
+42,Walter Harrison,3513634,5/13/2016,7/25/2018,"lymph node, lung",Y,Y,8/8/2019,T2N2c,140639,Y
+43,James Greer (OP),3713835,12/17/2017,5/23/2018,level 2 LN,Y,N,,T2N2b,170104,Y

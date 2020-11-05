@@ -1,0 +1,247 @@
+﻿Name,MRN,Gender,Race,DOB,Age,Arm,RECIST response,Date of Study Entry,Last Treatment Date,Date of Progression,Date of Death,trial,HPV,stage,T,N,M,where
+,3385054,Male,,3/5/1957,,HPV + Oropharynx,-72.72,3/28/2014,7/11/2014,,,10069B,,,,,,U of C
+,3380992,Male,,6/23/1937,,HPV + Oropharynx,-70,3/14/2014,,,6/18/2014,10069B,,,,,,U of C
+,3371570,Male,,8/14/1953,,HPV + Oropharynx,-52.17,2/26/2014,6/6/2014,,,10069B,,,,,,U of C
+,3373283,Male,,3/9/1985,,HPV + Oropharynx,-60,2/28/2014,6/20/2014,,,10069B,,,,,,U of C
+,753204,Female,,11/18/1958,,Non-Oropharynx,-33.33,1/29/2014,5/16/2014,,,10069B,,,,,,U of C
+,3368571,Male,,12/28/1966,,HPV + Oropharynx,-34.62,1/31/2014,5/16/2014,,,10069B,,,,,,U of C
+,3365107,Male,,2/20/1958,,HPV + Oropharynx,-42.11,1/12/2014,4/25/2014,,,10069B,,,,,,U of C
+,3357003,Male,,6/14/1957,,HPV - Oropharynx,-36.96,11/22/2013,2/28/2014,,,10069B,,,,,,U of C
+,2471519,Male,,3/23/1956,,HPV + Oropharynx,-41.78,11/19/2013,2/28/2014,,,10069B,,,,,,U of C
+,2788776,Male,,3/9/1958,,HPV + Oropharynx,-57.89,10/4/2013,1/17/2014,,,10069B,,,,,,U of C
+,3350817,Male,,6/26/1954,,HPV + Oropharynx,-43.9,10/4/2013,1/17/2014,,,10069B,,,,,,U of C
+,3345920,Female,,1/2/1949,,HPV + Oropharynx,-100,9/6/2013,1/3/2014,,,10069B,,,,,,U of C
+,3343511,Female,,11/11/1950,,HPV + Oropharynx,-52.13,9/3/2013,12/20/2013,,,10069B,,,,,,U of C
+,3342215,Male,,7/19/1944,,HPV + Oropharynx,-37.93,8/23/2013,12/6/2013,,,10069B,,,,,,U of C
+,3325353,Male,,12/11/1954,,HPV + Oropharynx,-26.67,5/17/2013,8/30/2013,,,10069B,,,,,,U of C
+,3322157,Male,,4/10/1950,,HPV + Oropharynx,N/A,5/8/2013,5/15/2013,,,10069B,,,,,,U of C
+,3317516,Male,,4/2/1950,,HPV + Oropharynx,-60,4/3/2013,7/14/2013,,,10069B,,,,,,U of C
+,3316752,Male,,4/17/1958,,HPV + Oropharynx,-42.11,3/27/2013,7/5/2013,,,10069B,,,,,,U of C
+,3310173,Male,,12/22/1952,,HPV + Oropharynx,-29.85,2/22/2013,6/9/2013,,,10069B,,,,,,U of C
+,3307765,Male,,2/5/1961,,HPV + Oropharynx,N/A,2/20/2013,3/25/2013,,3/25/2013,10069B,,,,,,U of C
+,3305018,Male,,3/31/1951,,HPV + Oropharynx,-34.55,1/16/2013,5/3/2013,,,10069B,,,,,,U of C
+,3305308,Male,,6/28/1952,,HPV + Oropharynx,-44.26,1/16/2013,5/3/2013,,,10069B,,,,,,U of C
+,3303523 ,Male,,5/17/1957,,HPV + Oropharynx,-71.7,12/28/2012,4/28/2013,,,10069B,,,,,,U of C
+,3291500,Male,,11/24/1945,,Non-Oropharynx,-52.38,12/3/2012,3/24/2013,,9/10/2017,10069B,,,,,,U of C
+,3295364,Female,,1/15/1970,,HPV + Oropharynx,-17.86,11/30/2012,4/1/2013,,,10069B,,,,,,U of C
+,3273400,Male,,7/16/1956,,HPV + Oropharynx,-12.96,7/13/2012,10/26/2012,,,10069B,,,,,,U of C
+,3272675,Male,,7/6/1958,,HPV + Oropharynx,-55,7/11/2012,10/19/2012,,5/12/2015,10069B,,,,,,U of C
+,3275063,Male,,1/13/1957,,Non-Oropharynx,-47.54,7/6/2012,10/19/2012,,,10069B,,,,,,U of C
+,3270373,Male,,10/24/1941,,Non-Oropharynx,-28.95,6/29/2012,10/12/2012,,9/1/2017,10069B,,,,,,U of C
+,3268030,Female,,8/6/1941,,HPV - Oropharynx,-8.45,6/19/2012,9/29/2012,,,10069B,,,,,,U of C
+,3265202,Male,,12/7/1956,,HPV + Oropharynx,-27.88,5/18/2012,8/31/2012,,,10069B,,,,,,U of C
+,3263398,Male,,12/14/1956,,HPV + Oropharynx,-50,5/8/2012,8/17/2012,,,10069B,,,,,,U of C
+,3260481,Male,,10/14/1958,,HPV + Oropharynx,-61.7,4/20/2012,8/3/2012,,,10069B,,,,,,U of C
+,3260715,Male,,10/18/1961,,HPV + Oropharynx,-50,4/18/2012,7/27/2012,,,10069B,,,,,,U of C
+,733930,Male,,2/7/1957,,HPV + Oropharynx,-51.35,4/9/2012,7/20/2012,,,10069B,,,,,,U of C
+,3255878,Female,,6/11/1978,,Non-Oropharynx,-11.11,4/3/2012,7/13/2012,,,10069B,,,,,,U of C
+,3256486,Male,,6/15/1950,,HPV + Oropharynx,-57.14,3/26/2012,7/6/2012,,,10069B,,,,,,U of C
+,804295,Male,,12/13/1960,,HPV + Oropharynx,-45,3/21/2012,6/29/2012,,,10069B,,,,,,U of C
+,3158174,Female,,10/8/1947,,HPV + Oropharynx,-52,3/13/2012,6/29/2012,,,10069B,,,,,,U of C
+,3253319,Male,,5/27/1964,,HPV + Oropharynx,-33.33,3/12/2012,6/22/2012,,,10069B,,,,,,U of C
+,3251495,Male,,3/3/1950,,HPV + Oropharynx,-32.61,2/15/2012,6/2/2012,,1/29/2017,10069B,,,,,,U of C
+,3250726,Male,,9/17/1940,,HPV + Oropharynx,-86.44,2/15/2012,6/2/2012,,,10069B,,,,,,U of C
+,3243948,Male,,9/24/1952,,HPV + Oropharynx,-60,1/6/2012,4/20/2012,,,10069B,,,,,,U of C
+,1325320,Male,,6/28/1947,,HPV + Oropharynx,-51.61,12/30/2011,4/13/2012,,,10069B,,,,,,U of C
+,3231897,Male,,6/23/1953,,HPV + Oropharynx,-83.1,12/20/2011,3/30/2012,,,10069B,,,,,,U of C
+,3239013,Female,,12/20/1958,,Non-Oropharynx,-34.21,12/16/2011,3/30/2012,,,10069B,,,,,,U of C
+,3240107,Female,,12/18/1951,,HPV + Oropharynx,-51.92,12/13/2011,3/23/2012,,,10069B,,,,,,U of C
+,3239694,Male,,10/18/1948,,HPV - Oropharynx,-27.78,12/9/2011,4/11/2012,,,10069B,,,,,,U of C
+,2955542,Male,,6/25/1959,,HPV + Oropharynx,-65.22,10/5/2011,1/17/2012,,,10069B,,,,,,U of C
+,3222169,Male,,6/17/1955,,HPV + Oropharynx,-80,9/16/2011,1/3/2012,,,10069B,,,,,,U of C
+,3219978,Male,,4/25/1957,,HPV + Oropharynx,-42.86,9/9/2011,12/27/2011,,,10069B,,,,,,U of C
+,3211580,Male,,6/9/1961,,HPV + Oropharynx,-60.98,7/20/2011,10/29/2011,,,10069B,,,,,,U of C
+,3207523,Male,,2/21/1953,,HPV - Oropharynx,-34.55,7/19/2011,11/1/2011,,,10069B,,,,,,U of C
+,3205901,Female,,3/24/1949,,Non-Oropharynx,-25,6/28/2011,10/11/2011,,,10069B,,,,,,U of C
+,3205044,Male,,5/20/1958,,HPV + Oropharynx,-73.33,6/14/2011,9/27/2011,,,10069B,,,,,,U of C
+,3199283,Male,,7/12/1945,,HPV + Oropharynx,N/A,5/17/2011,5/31/2011,,7/9/2011,10069B,,,,,,U of C
+,3200275,Male,,3/31/1952,,Non-Oropharynx,-36,5/13/2011,8/31/2011,,,10069B,,,,,,U of C
+,218087,Male,,4/13/1939,,Non-Oropharynx,-52.27,4/12/2011,8/3/2011,,,10069B,,,,,,U of C
+,3192645,Male,,6/7/1958,,HPV + Oropharynx,-57.69,4/5/2011,7/19/2011,,,10069B,,,,,,U of C
+,3176363,Male,,10/19/1955,,"tonsillar fossa, tonsil",-80.9,12/8/2010,3/22/2011,,,10069B,,,,,,U of C
+,218644,Male,,4/20/1939,,SUPRAGLOTTIC LARYNX,N/A,11/30/2010,12/7/2010,,12/16/2010,10069B,,,,,,U of C
+,3169289,Male,,1/19/1945,,base of tongue,-100,11/2/2010,2/15/2011,,,10069B,,,,,,U of C
+,3166682,Male,,2/15/1955,,base of tongue,-33.59,10/20/2010,2/1/2011,,,10069B,,,,,,U of C
+,962764,Male,,9/6/1946,,unknown primary,-21.28,9/13/2010,1/4/2011,,,10069B,,,,,,U of C
+,2799976,Male,,2/17/1954,,base of tongue,-14.54,8/17/2010,11/30/2010,,,10069B,,,,,,U of C
+,3156545,Male,,12/24/1939,,"pyriform fossa, medial wall of pyriform sinus",-42.13,8/13/2010,12/1/2010,,,10069B,,,,,,U of C
+,3154357,Male,,11/9/1938,,base of tongue,-84.29,8/10/2010,11/23/2010,,,10069B,,,,,,U of C
+"Kacick, Vincent",2911697,M,W,4/10/1965,41,BOT,,11/21/2006,3/16/2007,,,14401A,.,IVA,1,2B,0,U of C
+"Reuther,George",2918770,M,W,3/13/1946,60,tonsil,,12/12/2006,4/6/2007,,,14401A,1,IVA,1,2B,0,U of C
+"Soltwisch, Ronald",2929070,M,W,10/7/1935,71,soft palate,,2/13/2007,6/15/2007,,,14401A,0,IVA,1,2C,0,U of C
+"Stepan, Paul",904924,M,W,7/1/1943,64,unk(H/O RMT & buccal),,3/13/2007,7/6/2007,,,14401A,0,IVA,X,2C,0,U of C
+"Faris, George",2950955,M,W,11/3/1945,61,hypopharynx,,6/12/2007,10/5/2007,,,14401A,1,IVA,3,2B,0,U of C
+"Whitfield, Joe",2947429,M,B,12/11/1944,62,supraglottic,,6/12/2007,10/6/2007,,,14401A,0,IVA,4A,2C,0,U of C
+"Kuhrmeier, Eugene",2969796,M,W,9/8/1946,61,BOT,,9/25/2007,1/18/2008,,,14401A,1,IVA,3,2B,0,U of C
+"Rauner, Mark",2549615,M,W,7/13/1951,56,tonsil,,10/2/2007,1/25/2008,,,14401A,1,IVA,3,2B,0,U of C
+"Rattanesmay, B",2973890,M,Asian indian,9/24/1963,44,nasal cavity,,10/10/2007,2/29/2008,,,14401A,0,IVA,2,2B,0,U of C
+"Fazzini, Eugene",2975703,M,W,10/30/1950,57,supraglottic,,11/6/2007,2/29/2008,,,14401A,0,IVA,3,2C,0,U of C
+"King, Tim",2437121,M,W,10/1/1956,51,supraglottic,,11/13/2007,3/7/2008,,,14401A,0,IVA,3,2C,0,U of C
+"Tossi, Carolyn",2981482,F,A,4/27/1960,47,nasopharynx,,11/21/2007,3/6/2008,,,14401A,0,IIB,1,1,0,U of C
+"Esposito, Joseph",2981359,M,w,9/26/1958,49,tonsil,,11/20/2007,3/14/2008,,,14401A,1,IVA,2,2B,0,U of C
+"Obiala, Daniel",1998538,M,W,8/17/1945,62,BOT,,12/10/2007,4/4/2008,,,14401A,0,IVA,2,2B,0,U of C
+"Didier, Timothy",2991063,M,W,12/6/1958,49,tonsil,,3/11/2008,7/5/2008,,,14401A,1,IVA,4A,2C,0,U of C
+"Mires, Catherine",3002282,F,W,8/26/1959,49,oral tongue,,3/6/2008,6/20/2008,,,14401A,0,IVA,4A,2B,0,U of C
+"Kostoff, Vincent",3010578,M,W,11/24/1963,44,BOT,,5/20/2008,9/19/2008,,,14401A,1,IVA,3,2B,0,U of C
+"Greiner, Donald",3017233,M,W,4/4/1953,55,oral tongue,,6/17/2008,10/10/2008,,,14401A,0,IVA,4A,2B,0,U of C
+"Ham, James",3018271,M,W,11/14/1943,55,tonsil,,6/25/2008,10/17/2008,,,14401A,1,IVA,3,2B,0,U of C
+"Palm, James",3021006,M,W,8/9/1943,64,tonsil,,7/15/2008,11/7/2008,,,14401A,1,IVA,3,2B,0,U of C
+"White, Douglas",3025551,M,W,12/15/1966,41,BOT,,8/12/2008,12/5/2008,,,14401A,.,IVA,3,2B,0,U of C
+"Sacco, David",3036344,M,W,6/3/1947,61,BOT,,10/21/2008,2/13/2009,,,14401A,1,IVA,1,2A,0,U of C
+"Tolliver, Ricardo*",3043001,M,B,11/6/1950,57,pyriform sinus,,11/24/2008,3/20/2009,,,14401A,1,IVA,2,2B,0,U of C
+"Trapp, Robert",3057972,M,W,11/7/1948,60,BOT,,1/7/2009,5/1/2009,,,14401A,1,IVA,2,2B,0,U of C
+"Pskotka, Michael",3055489,M,W,5/26/1952,56,tonsil,,1/7/2009,5/1/2009,,,14401A,1,IVA,3,2A,0,U of C
+"Gutierrez, George",3057449,M,W,3/15/1962,46,retromolar trigone,,1/20/2009,5/15/2009,,,14401A,0,IVA,4A,2B,0,U of C
+"Stevens, Phillip",3067976,M,W,2/23/1964,45,lower gingiva,,4/2/2009,7/24/2009,,,14401A,0,IVA,4a,2B,0,U of C
+"Copeland, Waymond",2950899,M,B,4/17/1945,.,pyriform sinus,,5/18/2009,9/7/2009,,,14401A,0,IVA,2,2A,0,U of C
+"Sable, Jeffrey",3081744,M,W,3/31/1964,45,BOT,,6/2/2009,9/25/2009,,,14401A,0,IVA,4A,2C,0,U of C
+"Gardner, Kenny",3081254,M,W,7/22/1964,44,tonsil,,6/10/2009,10/2/2009,,,14401A,.,IVA,4A,2C,0,U of C
+"Skowronski, Robert",3087920,M,W,9/30/1952,56,tonsil,,7/7/2009,10/30/2009,,,14401A,.,IVA,2,2B,0,U of C
+"Ulivi, David",3091426,M,W,1/10/1959,50,unknown,,8/3/2009,11/27/2009,,,14401A,0,IVA,X,2B,0,U of C
+"Garcia, Frank",3093707,M,H,11/3/1932,76,pyriform sinus,,8/11/2009,12/11/2009,,,14401A,0,IVA,3,2B,0,U of C
+"Smith, Jack B.",3100460,M,W,10/26/1957,51,tonsil,,9/30/2009,1/25/2010,,,14401A,.,IVA,4A,2B,0,U of C
+"Larson, Maureen",3102660,F,W,1/27/1947,62,buccal mucosa,,10/19/2009,2/12/2010,,,14401A,0,IVA,2,2C,0,U of C
+"Parmakis, James",3105416,M,W,4/14/1954,55,tonsil,,10/27/2009,2/19/2010,,,14401A,.,IVA,2,2B,0,U of C
+"Johnson, Tom",2050963,M,B,10/30/1951,57,supraglottic,,11/11/2009,3/5/2010,,,14401A,0,IVA,2,2C,0,U of C
+"Blair, Bates Brenda",3104741,F,B,9/15/1958,51,supraglottic,,11/12/2009,3/5/2010,,,14401A,0,IVA,4A,1,0,U of C
+"Keehma, John",3113052,M,W,4/30/1951,58,BOT,,11/30/2009,3/26/2010,,,14401A,1,IVA,2,2C,0,U of C
+"Kirkwood, Jack",3115994,M,W,1/15/1947,52,tonsil,,12/14/2009,4/9/2010,,,14401A,.,IVA,2,2C,0,U of C
+"Smetana, Robert",3137245,M,W, 8/3/47,55,BOT,,2/24/2010,6/18/2010,,,14401A,.,IVA,1,2C,0,U of C
+"Wojcik, Rosemary",3128077,F,W,4/5/1947,62,supraglottic,,3/2/2010,6/24/2010,,,14401A,0,.,4A/B,0,0,U of C
+"Klosowski, Stephen",2897446,M,W,8/26/1935,71,BOT,,9/12/2006,12/15/2006,,,14401A,0,IVB,2,3,0,U of C
+"Hodges, Roosevelt",2766318,M,B,8/21/1958,48,BOT,,11/14/2006,2/19/2007,,,14401A,1,IVA,1,2B,0,U of C
+"Novosel, William",2548092,M,W,1/13/1938,68,Tonsil,,11/28/2006,3/2/2007,,,14401A,1,IVA,1,2B,0,U of C
+"Allen, Martha",2044786,F,W,8/6/1951,55,Tonsil,,12/5/2006,3/9/2007,,,14401A,1,IVA,2,2B,0,U of C
+"Feroz, Farhat",2920369,F,Aisian Indian,10/20/1947,59,gingiva,,12/19/2006,4/13/2007,,,14401A,0,IVA,4A,1,0,U of C
+"Walsh, Judith",2920516,F,W,8/19/1940,66,tonsil,,12/20/2006,3/24/2007,,,14401A,.,IVB,2,3,0,U of C
+"Macierz, Gary",2915792,M,W,4/12/1964,42,tonsil,,12/26/2006,4/6/2007,,,14401A,1,IVB,2,3,0,U of C
+"Baisden, Danny",2698260,M,W,6/26/1957,49,tonsil,,5/29/2007,9/5/2007,,,14401A,1,IVA,3,2B,0,U of C
+"Anderson, Sharon",1434611,F,B,12/26/1950,56,supraglottic,,5/30/2007,9/11/2007,,,14401A,1,IVA,3,2C,0,U of C
+"Kessinger, David",2954509,M,W,3/7/1951,56,tonsil,,6/27/2007,10/25/2007,,,14401A,1,IVB,4B,2B,0,U of C
+"Murray, Louis",2456135,M,B,12/20/1948,58,tonsil,,6/26/2007,9/27/2007,,,14401A,1,IVA,3,2B,0,U of C
+"Bremer, Joseph",2955755,M,B,9/15/1946,60,tonsil,,6/28/2007,10/2/2007,,,14401A,1,IVA,3,2C,0,U of C
+"Supera, John",2957771,M,W,12/17/1965,41,BOT,,7/17/2007,10/23/2007,,,14401A,1,IVA,2,2A,0,U of C
+"Achatz, Grant",2960664,M,W,4/25/1974,33,oral tongue,,7/31/2007,11/2/2007,,,14401A,0,IVA,4A,2B,0,U of C
+"Lenox, John",2965757,M,W,4/29/1952,55,soft palate,,8/28/2007,12/3/2007,,,14401A,0,IVA,2,2C,0,U of C
+"Meyer, Joseph",2960457,M,W,4/19/1965,42,tongue,,9/18/2007,12/21/2007,,,14401A,0,IVA,4A,1,0,U of C
+"Arduini, Aric",2969244,M,W,2/10/1975,32,buccal  mucosa,,10/9/2007,1/16/2008,,,14401A,0,IVA,2,2A,0,U of C
+"Kolecki, Steven",1596184,M,W,2/17/1959,48,tonsil/BOT-2 primaries,,10/30/2007,2/6/2008,,,14401A,1,IVA,1,2B,0,U of C
+"Hunter, Trammel",1717567,M,B,8/4/1942,65,supraglottic,,11/6/2007,2/12/2008,,,14401A,0,IVA,4A,2C,0,U of C
+"Grand, Richard",1497979,M,W,3/20/1956,51,tonsil,,11/26/2007,2/29/2008,,,14401A,1,IVA,2,2B,0,U of C
+"Hoover, Sheila",2985354,F,W,9/3/1948,59,tonsil,,12/26/2007,4/25/2008,,,14401A,1,IVA,3,2B,0,U of C
+"Finney, William",2991493,M,American Indian,10/18/1950,57,BOT,,2/12/2008,5/5/2008,,,14401A,1,IVA,3,2A,0,U of C
+"Mitchell, Eric",737506,M,B,4/20/1950,57,oral tongue,,3/11/2008,6/16/2008,,,14401A,0,IVA,4A?,2C,0,U of C
+"Sloat, Donna",2999291,F,W,4/5/1963,44,lateral pharyngeal wall,,3/25/2008,6/30/2008,,,14401A,1,IVB,4B,2C,0,U of C
+"Thompson, Melvin",1289044,M,B,2/15/1942,66,hypopharynx,,4/1/2008,7/8/2008,,,14401A,0,IVA,4A,1,0,U of C
+"Scott, David",2028954,M,W,9/4/1957,50,tonsil,,6/3/2008,9/10/2008,,,14401A,1,IVA,3,2C,0,U of C
+"Silverman, John",3025018,M,W,10/23/1958,49,tonsil,,8/4/2008,11/7/2008,,,14401A,.,IVA,2,2B,0,U of C
+"Szeliga, Marie",3030702,F,W,9/19/1964,43,BOT,,9/8/2008,12/15/2008,,,14401A,1,III,2,1,0,U of C
+"Balciunas, Robert",1504923,M,W,11/6/1953,54,BOT,,10/6/2008,1/13/2009,,,14401A,.,IVA,3,2C,0,U of C
+"Harrington, Maxim",1245597,M,B,2/11/1958,50,soft palate,,12/1/2008,3/9/2009,,,14401A,0,IVA,2,2A,0,U of C
+"LaPoint, Donna",3063883,F,W,2/9/1957,51,tonsil,,2/17/2009,5/29/2009,,,14401A,1,IVB,4B,2C,0,U of C
+"Edwards, John*",3062724,M,W,7/6/1949,59,tongue,,2/17/2009,5/22/2009,,,14401A,0,IVA,4A,0,0,U of C
+"Martin, Craig",3065870,M,W,9/5/1962,46,tonsil,,3/2/2009,6/8/2009,,,14401A,.,IVA,2,2B,0,U of C
+"Fahey, Gregory*",3069476,M,W,2/22/1954,55,BOT,,3/31/2009,7/10/2009,,,14401A,1,IVA,2,2B,0,U of C
+"Rogge, George",2454688,M,W,7/24/1947,62,BOT,,6/22/2009,9/28/2009,,,14401A,0,IVA,2,2C,0,U of C
+"Bailey, David",3085180,M,W,9/27/1948,61,tonsil,,6/30/2009,10/5/2009,,,14401A,.,IVA,3,2B,0,U of C
+"Michael, John",3090511,M,W,10/11/1940,68,hypopharynx,,8/3/2009,11/6/2009,,,14401A,0,IVB,1,3,0,U of C
+"Light, Jerry D.",3096437,M,W,10/1/1956,52,unknown,,9/10/2009,12/17/2009,,,14401A,0,IVA,X,2C,0,U of C
+"Jamison, Jan",3102600,M,W,1/1/1948,61,BOT,,10/6/2009,1/12/2010,,,14401A,.,IVA,1,2B,0,U of C
+"Osterhout, Jeffrey",3101463,M,W,9/7/1968,41,tonsil,,10/15/2009,1/21/2010,,,14401A,.,IVA,1,2A,0,U of C
+"Watson, Lawrence",3098542,M,W,1/3/1949,60,BOT,,10/13/2009,1/20/2010,,,14401A,.,IVA,4A,2B,0,U of C
+"Cull, Gerald",3106416,M ,W,9/29/1935,74,pyriform sinus,,11/10/2009,2/16/2010,,,14401A,0,IVB,4A,3,0,U of C
+"Mosquedo, Jesse",3111197,M,H,9/22/1966,43,tonsil,,11/24/2009,3/1/2010,,,14401A,0,IVA,3,2B,0,U of C
+"D' Angelo, Anthony",3120135,M,W,7/30/1962,47,BOT,,1/19/2010,4/23/2010,,,14401A,.,IVA,1,2C,0,U of C
+Frank Sokol,3581525,,,,,,,11/18/2016,3/10/2017,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Frank Collingbourne,3557665,,,,,,,9/23/2016,12/31/2016,,,OPTIMA_Low,HPV-,T1N2b,1,2b,0,U of C
+Leonard Ellul,3553505,,,,,,,8/23/2016,12/2/2016,,,OPTIMA_Low,HPV16,T1N2b ,1,2b,0,U of C
+David Tinberg,3552528,,,,,,,8/19/2016,11/18/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Richard Michalak,2209904,,,,,,,8/5/2016,11/10/2016,,,OPTIMA_Low,HPV33,T2N2b ,2,2b,0,U of C
+Benjamin Beal,1267842,,,,,,,7/29/2016,11/4/2016,,,OPTIMA_Low,HPV16,T1N2b,1,2b,0,U of C
+Terry Pfeifer,3542051,,,,,,,7/11/2016,10/21/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Roy Kummer,3539092,,,,,,,5/20/2016,8/26/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Daniel Lyons,3535574,,,,,,,5/13/2016,8/26/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Bradley Busch,3519848,,,,,,,2/22/2016,6/3/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Donald Moore,3519179,,,,,,,2/12/2016,5/24/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Alvin Burnett,3508689,,,,,,,12/31/2015,4/14/2016,,,OPTIMA_Low,HPV16,T3N1,3,1,0,U of C
+Susie Kelly,3503678,,,,,,,12/4/2015,3/11/2016,,,OPTIMA_Low,HPV16,T1N2b,1,2b,0,U of C
+Philip Enquist,3497326,,,,,,,10/30/2015,2/5/2016,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Aaron Adilman,3495811,,,,,,,10/30/2015,2/5/2016,,,OPTIMA_Low,HPV16,T1N2a,1,2a,0,U of C
+Anthony Quiter,3486674,,,,,,,9/18/2015,12/24/2015,,,OPTIMA_Low,HPV16,T3N2b,3,2b,0,U of C
+Ronald Pomagier,3480721,,,,,,,8/21/2015,11/27/2015,,,OPTIMA_Low,HPV16,T1N2b,1,2b,0,U of C
+Tim Guerin,3480615,,,,,,,8/7/2015,11/20/2015,,,OPTIMA_Low,HPV16,T2N2a,2,2a,0,U of C
+Sean Kenny,3459012,,,,,,,5/4/2015,8/14/2015,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Jason Edwards,3327545,,,,,,,1/9/2015,4/17/2015,,,OPTIMA_Low,HPV16,T2N2b,2,2b,0,U of C
+Brenda Burks,1390547,,,,,,,11/11/2016,2/17/2017,,,OPTIMA_Int,HPV16,T1N2b,1,2b,0,U of C
+Thomas Carroll,3581974,,,,,,,11/8/2016,2/10/2017,,,OPTIMA_Int,HPV16,T4aN2b,4a,2b,0,U of C
+Martin Degrazia ,3557231,,,,,,,9/2/2016,12/9/2016,,,OPTIMA_Int,HPV16,T2N2c,2,2c,0,U of C
+Bruce Besonen,3547729,,,,,,,7/27/2016,10/28/2016,,,OPTIMA_Int,HPV16,T1N2c,1,2c,0,U of C
+Raymond Scott,3549322,,,,,,,7/18/2016,N/A,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+James Donnelly,3546090,,,,,,,7/1/2016,10/7/2016,,,OPTIMA_Int,HPV16,T2N2a,2,2a,0,U of C
+Nicholas Villanueva,2929012,,,,,,,6/13/2016,9/16/2016,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Craig Allen,3540920,,,,,,,6/6/2016,9/9/2016,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Ronald Angone,3522111,,,,,,,3/14/2016,6/17/2016,,,OPTIMA_Int,HPV33,T2N2b,2,2b,0,U of C
+Charles Gerage,3324677,,,,,,,3/14/2016,6/24/2016,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Mark Deckard,3515780,,,,,,,2/8/2016,5/20/2016,,,OPTIMA_Int,HPV16,T3N2c,3,2c,0,U of C
+Walter Harrison,3513634,,,,,,,2/1/2016,5/13/2016,,,OPTIMA_Int,HPV16,T2N2c,2,2c,0,U of C
+Marc Hoffman,3508433,,,,,,,1/4/2016,4/15/2016,,,OPTIMA_Int,HPV16,T1N2b,1,2b,0,U of C
+Edward Hanley,3507074,,,,,,,12/18/2015,4/1/2016,,,OPTIMA_Int,HPV16,T4N2c,4,2c,0,U of C
+Lamar Thomas,3506201,,,,,,,12/16/2015,3/25/2016,,,OPTIMA_Int,HPV16,T3N2b,3,2b,0,U of C
+Lance Brady,3491394,,,,,,,12/8/2015,3/25/2016,,,OPTIMA_Int,HPV16,T1N2b,1,2b,0,U of C
+Kevin Harrell,3497403,,,,,,,11/20/2015,2/26/2016,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Robert Nosal,3317572,,,,,,,11/13/2015,2/19/2016,,,OPTIMA_Int,HPV16,T4N2b,4,2b,0,U of C
+William Dustin,1589928,,,,,,,10/13/2015,1/22/2016,,,OPTIMA_Int,HPV16,T3N2b,3,2b,0,U of C
+Donald Webb,2910738,,,,,,,10/9/2015,1/22/2016,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Christopher DeSantis,3488621,,,,,,,9/30/2015,1/8/2016,,,OPTIMA_Int,HPV16,T4N2c,4,2c,0,U of C
+David Martin,852008,,,,,,,7/13/2015,10/23/2015,,,OPTIMA_Int,HPV16,T3N2b,3,2b,0,U of C
+James Ervin,3454801,,,,,,,4/17/2015,8/7/2015,,,OPTIMA_Int,HPV16,T4aN3,4,3,0,U of C
+Darell Bradford,3453332,,,,,,,4/10/2015,7/31/2015,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Douglas Matthias,3457262,,,,,,,4/20/2015,7/31/2015,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+James Degarmo,3454596,,,,,,,4/3/2015,7/17/2015,,,OPTIMA_Int,HPV16,T3N0,3,0,0,U of C
+Rodney Cullens,3453307,,,,,,,3/25/2015,7/3/2015,,,OPTIMA_Int,HPV16,T3N0,3,0,0,U of C
+Daniel Faloona,3446735,,,,,,,2/25/2015,6/12/2015,,,OPTIMA_Int,HPV16,T2N2b,2,2b,0,U of C
+Roy Hartwig,3142993,,,,,,,11/26/2014,3/20/2015,,,OPTIMA_Int,HPV16,T3N2b,3,2b,0,U of C
+Salvatore Gullo ,3426220,,,,,,,11/4/2014,2/27/2015,,,OPTIMA_Int,HPV16,T3N2c,3,2c,0,U of C
+Henry Cholewa,3555469,,,,,,,9/9/2016,1/13/2017,,,OPTIMA_Reg,HPV16,T2N2b,2,2b,0,U of C
+David Taylor,3545350,,,,,,,7/1/2016,11/11/2016,,,OPTIMA_Reg,HPV16,T3N2b,3,2b,0,U of C
+Jeffery Angelotti,3524825,,,,,,,4/8/2016,8/12/2016,,,OPTIMA_Reg,HPV16,T1N2b,1,2b,0,U of C
+Wayne Pearson,3521040,,,,,,,3/4/2016,7/8/2016,,,OPTIMA_Reg,HPV16,T3N2c,3,2c,0,U of C
+Myong Kim,3511774,,,,,,,1/29/2016,6/3/2016,,,OPTIMA_Reg,HPV-,T2N2b,2,2b,0,U of C
+Gene Iwinski,2054175,,,,,,,1/6/2016,5/20/2016,,,OPTIMA_Reg,HPV16,T2N2b,2,2b,0,U of C
+Stephen Wills,3503535,,,,,,,12/9/2015,4/15/2016,,,OPTIMA_Reg,HPV-,T2N2b,2,2b,0,U of C
+Anthony Sesso,3461589,,,,,,,5/15/2015,9/30/2015,,,OPTIMA_Reg,HPV18,T4aN2b,4a,2b,0,U of C
+Frederick Wackerle,3456018,,,,,,,4/7/2015,9/4/2015,,,OPTIMA_Reg,HPV16,T3N0,3,0,0,U of C
+Carroll Lewis,3413871,,,,,,,1/30/2015,6/19/2015,,,OPTIMA_Reg,HPV16,T4aN2c,4a,2c,0,U of C
+James Lynch,3418273,,,,,,,10/6/2014,2/13/2015,,,OPTIMA_Reg,HPV16,T2N3,2,3,0,U of C
+Barry Sherman,3797673,,,,,,,9/7/2018,,,,OPTIMA2,HPV16,T4N2c,4,2c,0,U of C
+Everett Cauffman,3793160,,,,,,,8/31/218,,,,OPTIMA2,HPV16,T2N2b,2,2b,0,U of C
+William Uelman (OP),3793494,,,,,,,8/24/2018,,,,OPTIMA2,HPV16,T3N1,3,1,0,U of C
+Major Walker,2507600,,,,,,,8/17/2018,,,,OPTIMA2,HPV16,T1N2a,1,2a,0,U of C
+Wayne Carlson (OP),1873071,,,,,,,8/3/2018,,,,OPTIMA2,HPV16,T3N1,3,1,0,U of C
+Robby Robb,3715744,,,,,,,7/17/2018,,,,OPTIMA2,HPV16,T1N2a,1,2a,0,U of C
+Maria Bonilla,3752745,,,,,,,3/19/2018,,,,OPTIMA2,HPV16,T2N2b,2,2b,0,U of C
+Barry Sullivan,3772040,,,,,,,7/17/2018,,,,OPTIMA2,HPV 16,T2N1,2,1,0,U of C
+Allen Hubster,3447668,,,,,,,5/18/2018,,,,OPTIMA2_Low_TORS,HPV 16,T1N2a,1,2a,0,U of C
+Mark Hines,3757140,,,,,,,4/27/2018,,,,OPTIMA2_Low_TORS,HPV16,T1N2b,1,2b,0,U of C
+Michael Shannon,3720166,,,,,,,10/27/2017,,,,OPTIMA2_Low_TORS,HPV16,T2N2a,2,2a,0,U of C
+Robert Anderson,3703496,,,,,,,10/27/2017,,,,OPTIMA2_Low_TORS,HPV33,T1N2a,1,2a,0,U of C
+Kevin Hamilton,3712440,,,,,,,10/17/2017,,,,OPTIMA2_Low_TORS,HPV16,T2N2b,2,2b,0,U of C
+Stephen Shin,3108147,,,,,,,5/11/2018,,,,OPTIMA2_Low_RT,HPV16,T3N0,3,0,0,U of C
+Gregory Wymer (OP),3752533,,,,,,,3/19/2018,,,,OPTIMA2_Low_RT,HPV16,T1N2b,1,2b,0,U of C
+Sherrie Gauley,3727559,,,,,,,11/29/2017,,,,OPTIMA2_Low_RT,HPV16,T3N1,3,1,0,U of C
+JoAnn Marchigiani (OP),3712308,,,,,,,10/20/2017,,,,OPTIMA2_Low_RT,HPV16,T2N2a,2,2a,0,U of C
+David Meseberg,2630128,,,,,,,6/15/2018,,,,OPTIMA2_Int,HPV16,T1N2,1,2,0,U of C
+Henry Simms (SC),3757628,,,,,,,5/22/2018,,,,OPTIMA2_Int,HPV16,T1N2b,1,2b,0,U of C
+Arunas Vasys,3769590,,,,,,,5/25/2018,,,,OPTIMA2_Int,HPV16,T2N2b,2,2b,0,U of C
+Don Koob,3767186,,,,,,,5/11/2018,,,,OPTIMA2_Int,HPV16,T3N2b,3,2b,0,U of C
+Floyd Bryant,3755407,,,,,,,4/13/2018,,,,OPTIMA2_Int,HPV+,T2N2a,2,2a,0,U of C
+James Gardner (OP),3659799,,,,,,,4/20/2018,,,,OPTIMA2_Int,HPV16,T1N2b,1,2b,0,U of C
+Sam Tripp,3749634,,,,,,,3/5/2018,,,,OPTIMA2_Int,HPV16,T2N2b,2,2b,0,U of C
+Bettjane Rosenblum,3735514,,,,,,,1/15/2018,,,,OPTIMA2_Int,HPV16,T3N2c,3,2c,0,U of C
+James Greer (OP),3713835,,,,,,,10/6/2017,,,,OPTIMA2_Int,HPV16,T2N2b,2,2b,0,U of C
+Patrick Lunsford,3728585,,,,,,,12/13/2017,,,,OPTIMA2_Int,HPV33,T3N2b,3,2b,0,U of C
+Robert Betlow,3709726,,,,,,,9/26/2017,,,,OPTIMA2_Int,HPV16,T1N2a-2b,1,2b,0,U of C
+David Schulte,3708841,,,,,,,9/22/2017,,,,,HPV16,T4N1,4,1,0,U of C
+James Lewandowski,3034289,,,,,,,6/11/2018,,,,OPTIMA2_Reg,HPV16,T2N2b,2,2b,0,U of C
+Kenneth Eyre,3736106,,,,,,,1/5/2017,,,,OPTIMA2_Reg,EQUIVOCAL,T1N3?,1,3,0,U of C
+David Drlich,3724219,,,,,,,11/17/2017,,,,OPTIMA2_Reg,HPV16,T3N2c,3,2c,0,U of C
